@@ -61,7 +61,7 @@ remove_aegis
 umount /usr/local/aegis/aegis_debug
 
 
-printf "%-40s %40s\n" "Uninstalling aegis"  "[  OK  ]"
+printf "%-40s %40s\n" "卸载成功！"  "[  OK  ]"
 
 
 
